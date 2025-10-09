@@ -1,0 +1,5 @@
+//sto es contenido de la rama 2
+document.getElementById('btnClick').addEventListener('click', function() {
+    document.getElementById('output').textContent = '¡Botón clicado!';
+});
+
